@@ -1,0 +1,16 @@
+a=12
+b="string"
+c=True
+d=3+4j
+print(a)
+print(b)
+print(c)
+print(d)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(id(a))
+print(id(b))
+print(id(c))
+print(id(d))
